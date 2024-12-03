@@ -27,7 +27,6 @@ I like creating websites.
 ![jira](https://github.com/user-attachments/assets/cbdc787f-7f24-449b-8e6c-fd7f310f2754)
 ![postgres](https://github.com/user-attachments/assets/2ee746f1-d622-4b8b-a5c8-333feb5abbf8)
 ![react router](https://github.com/user-attachments/assets/ba0ce679-4125-4997-a850-778ea33d069c)
-![vercel](https://github.com/user-attachments/assets/8013ca0e-b9c0-46ff-85ca-676ed3889dfa)
 
 
 
